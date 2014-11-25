@@ -1,3 +1,10 @@
+/* ******************************
+ * Copyleft 2014 Verbalsaint
+ * ******************************/
+
+/*
+ * Sort read-in 7 digits number with bitset
+ */
 #include <string>
 #include <fstream>
 #include <bitset>

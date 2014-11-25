@@ -1,3 +1,9 @@
+/* ******************************
+ * Copyleft 2014 Verbalsaint
+ * ******************************/
+/*
+ * Generate txt file with 7 digits number
+ */
 #include <string>
 #include <fstream>
 #include <random>
